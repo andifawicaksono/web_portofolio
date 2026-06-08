@@ -43,13 +43,13 @@ export const metadata: Metadata = {
     "Web Developer",
   ],
   // Canonical base URL - ganti dengan domain deployment Anda
-  metadataBase: new URL("https://andifa-w.vercel.app"),
+  metadataBase: new URL("https://andifawicaksono.cloud"),
   alternates: { canonical: "/" },
   // OpenGraph untuk preview di Facebook, LinkedIn, dsb
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://andifa-w.vercel.app",
+    url: "https://andifawicaksono.cloud",
     title: "Andifa Nur Wicaksono. | Software Engineer & AI Enthusiast",
     description:
       "Software Engineer & AI Enthusiast. ASP.NET Core, Spring Boot, Machine Learning, Data Science.",
@@ -121,7 +121,7 @@ export default function RootLayout({
               jobTitle: "Software Engineer & AI Enthusiast",
               description:
                 "Software Engineer specializing in ASP.NET Core, Spring Boot, and Machine Learning",
-              url: "https://andifa-w.vercel.app",
+              url: "https://andifawicaksono.cloud",
               sameAs: [
                 "https://www.linkedin.com/in/andifa-w-951418132/",
               ],

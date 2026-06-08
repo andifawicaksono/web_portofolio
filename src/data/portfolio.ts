@@ -38,7 +38,7 @@ export const profile: Profile = {
     email: "andifawicaksono@email.com",                           // TODO: Replace with your email
     linkedin: "https://www.linkedin.com/in/andifa-w-951418132/",
     github: "https://github.com/andifawicaksono",                 // TODO: Replace with your GitHub URL
-    whatsapp: "085155214146",                             // TODO: Replace with your WhatsApp number (international format)
+    whatsapp: "+6285155214146",                             // TODO: Replace with your WhatsApp number (international format)
     location: "Indonesia",
   },
 };
