@@ -35,7 +35,7 @@ export const profile: Profile = {
   currentCompany: "PT ALFAHUMA REKAYASA TEKNOLOGI",
   availableForWork: true,
   contact: {
-    email: "andifawicaksono@email.com",                           // TODO: Replace with your email
+    email: "andifawicaksono@gmail.com",                           // TODO: Replace with your email
     linkedin: "https://www.linkedin.com/in/andifa-w-951418132/",
     github: "https://github.com/andifawicaksono",                 // TODO: Replace with your GitHub URL
     whatsapp: "+6285155214146",                             // TODO: Replace with your WhatsApp number (international format)
